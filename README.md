@@ -19,3 +19,5 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 13. Athrun Zala（機動戦士ガンダムSEED ）
 14. Anya
 15. Spike Spiegel (Cowboy Bebop)
+16. AKIRA
+17. Kurotsuchi Mayuri (Bleach)
